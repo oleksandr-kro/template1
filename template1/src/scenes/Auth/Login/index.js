@@ -7,6 +7,7 @@ import {
   TouchableOpacity,
   InteractionManager, 
   TextInput,
+  Linking,
 } from 'react-native';
 import { Button , Input} from '../../../views/components/basic';
 import {colors, fonts, scenes} from '../../../assets/styles';
@@ -34,7 +35,7 @@ export const ScreenLogin = ({ route, navigation }) => {
 
   return(
       <View style={scenes.contentContainer}>
-        <View>
+        <View style={{}}>
         <Text style={{...fonts.size24, ...fonts.bold}}>Login</Text>
         {/* <TouchableOpacity onPress={() => {navigation.navigate('Verification')}}>
           <Text>
@@ -65,6 +66,10 @@ export const ScreenLogin = ({ route, navigation }) => {
           />
         </View>
         <Button title='Continue'/>
+        <View style={{flexDirection:'row', justifyContent:'center'}}>
+          <Text style={{color:colors.gray.default}}>Don’t have an account? </Text>
+          <Text style={{color: colors.orange.default}} onPress={()=> Linking.openURL('#')}>Sign up</Text>
+        </View>
         </View>
       </View>
     )
