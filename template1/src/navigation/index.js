@@ -11,6 +11,7 @@ import {
     ScreenLogin,
     ScreenVerification,
     ScreenSignUp,
+    ScreenSignUpQuestion,
   } from '../scenes/Auth';
 
 const AuthStack = createStackNavigator();
@@ -21,6 +22,7 @@ const AuthNav =()=>(
         header: ()=>Header,
         headerBackTitleVisible: false,
       }}>
+        <AuthStack.Screen name="SignUpQuestion" component={ScreenSignUpQuestion} options={{headerShown: false}}/>
         <AuthStack.Screen name="SignUp" component={ScreenSignUp} options={{headerShown: false}}/>
         <AuthStack.Screen name="Verification" component={ScreenVerification} />
         <AuthStack.Screen name="Login" component={ScreenLogin} options={{headerShown: false}}/>

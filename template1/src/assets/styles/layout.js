@@ -36,7 +36,7 @@ export default {
   radius: defaultValue({
     narrow: normalized(4),
     thin: normalized(9),
-    default: normalized(14),
+    default: normalized(25),
   }),
 
   icons: defaultValue({

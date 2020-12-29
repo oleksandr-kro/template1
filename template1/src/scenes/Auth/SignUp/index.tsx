@@ -10,7 +10,7 @@ import {
   Linking,
   ScrollView,
 } from 'react-native';
-import { Button , Input, CheckBox} from '../../../views/components/basic';
+import { Button , Input, CheckBox, Modal} from '../../../views/components/basic';
 import {colors, fonts, scenes, layout} from '../../../assets/styles';
 import { normalized } from '../../../utils';
 import {
@@ -26,6 +26,7 @@ export const ScreenSignUp = ({ route, navigation }) => {
   const [unvalidatedMessages, setUnvalidatedMessages] = React.useState({});
   const [selectedFirst, setSelectedFirst] = React.useState(false);
   const [selectedSecond, setSelectedSecond] = React.useState(false);
+  // const [visibleModal, setVisibleModal] = React.useState(false);
 
 
   const firstNameInput = React.useRef()
@@ -43,13 +44,17 @@ export const ScreenSignUp = ({ route, navigation }) => {
   const navigateTo = () => {
     if (selectedFirst && !selectedSecond){
       console.log('first')
-      return navigation.navigate('Verification')
+      return navigation.navigate('SignUpQuestion')
     } else if (!selectedFirst && selectedSecond){
       console.log('second')
     } else {
       console.log('choose the section')
     }
   }
+  // const onRequestClose = () => {
+  //   setVisibleModal(false)
+  // }
+
   return(
     <ScrollView 
     showsVerticalScrollIndicator={false}
@@ -105,6 +110,9 @@ export const ScreenSignUp = ({ route, navigation }) => {
             <Button title='Continue' margin={layout.paddings.thick} onPress={()=> navigateTo()}/>
           </View>
       </View>
+      {/* <Modal visible={visibleModal} onRequestClose={onRequestClose}>
+        <Text>1234656</Text>  
+      </Modal> */}
       </ScrollView>
     )
 }

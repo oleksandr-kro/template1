@@ -9,4 +9,5 @@ export * from './Input';
 export * from './Icon';
 export * from './Header';
 export * from './CheckBox';
+export * from './Modal';
 export type { BoxType };
