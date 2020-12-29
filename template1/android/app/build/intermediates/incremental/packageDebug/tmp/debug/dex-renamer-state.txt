@@ -1,0 +1,4 @@
+#Mon Dec 28 12:24:28 EET 2020
+base.0=/Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

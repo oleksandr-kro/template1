@@ -33,6 +33,7 @@ export const scenes = StyleSheet.create({
     padding: normalized(30),
     maxWidth: normalized(375),
     backgroundColor: colors.bgWhite,
+    flex:1,
   },
 });
 

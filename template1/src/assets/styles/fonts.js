@@ -4,7 +4,7 @@ import { normalized } from '../../utils';
 import colors from './colors';
 
 const defaultFont = {
-  // fontFamily: 'Inter',
+  fontFamily: 'Inter-Regular',
 
   includeFontPadding: false,
   textAlignVertical: 'center',

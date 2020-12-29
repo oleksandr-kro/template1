@@ -3,6 +3,7 @@ import { StyleSheet, TouchableOpacity } from "react-native";
 
 import Appointment from "../../../../assets/images/Appointment.svg";
 import Check from "../../../../assets/images/Check.svg";
+import Verification from "../../../../assets/images/Verification.svg";
 
 import { colors, layout } from "../../../../assets/styles";
 
@@ -26,6 +27,8 @@ export const Icon = ({ name, ...props }) => {
       return <Appointment {...props} />;
     case "Check":
       return <Check {...props} />;
+    case "Verification":
+      return <Verification {...props} />;
     default:
       return null;
   }

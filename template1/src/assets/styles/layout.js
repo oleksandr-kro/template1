@@ -15,7 +15,7 @@ export default {
     double: normalized(25),
     //
     inputVertical: normalized(13),
-    avoidingHeader: normalized(130),
+    avoidingHeader: normalized(50),
     avoidingHeaderSticked: normalized(108),
     avoidingTabBar: normalized(90),
   }),

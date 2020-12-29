@@ -7,4 +7,5 @@ export * from './TouchableBox';
 export * from './Image';
 export * from './Input';
 export * from './Icon';
+export * from './Header';
 export type { BoxType };
