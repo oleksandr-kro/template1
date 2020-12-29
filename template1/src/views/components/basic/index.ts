@@ -8,4 +8,5 @@ export * from './Image';
 export * from './Input';
 export * from './Icon';
 export * from './Header';
+export * from './CheckBox';
 export type { BoxType };

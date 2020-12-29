@@ -4,6 +4,9 @@ import { StyleSheet, TouchableOpacity } from "react-native";
 import Appointment from "../../../../assets/images/Appointment.svg";
 import Check from "../../../../assets/images/Check.svg";
 import Verification from "../../../../assets/images/Verification.svg";
+import CheckMark from "../../../../assets/images/CheckMark.svg";
+import JobSeeker from "../../../../assets/images/JobSeeker.svg";
+import JobPoster from "../../../../assets/images/JobPoster.svg";
 
 import { colors, layout } from "../../../../assets/styles";
 
@@ -29,6 +32,12 @@ export const Icon = ({ name, ...props }) => {
       return <Check {...props} />;
     case "Verification":
       return <Verification {...props} />;
+    case "CheckMark":
+      return <CheckMark {...props} />;
+    case "JobSeeker":
+      return <JobSeeker {...props} />;
+    case "JobPoster":
+      return <JobPoster {...props} />;
     default:
       return null;
   }

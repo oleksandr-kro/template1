@@ -29,7 +29,7 @@ const orange = defaultValue({
   lighter: '#FFA800',
   default: '#FFBF11',
   darker: '#FFC20F',
-  darker1: '#FFC20F',
+  darker1: '#FFC210',
   darker2: '#FFC721',
 
   gradient1: '#FFD047',
