@@ -13,6 +13,8 @@ export default {
     default: normalized(15),
     thick: normalized(20),
     double: normalized(25),
+    default2: normalized(30),
+    thick2: normalized(40),
     //
     inputVertical: normalized(13),
     avoidingHeader: normalized(50),

@@ -3,8 +3,17 @@ import { StyleSheet } from 'react-native';
 import { normalized } from '../../utils';
 import colors from './colors';
 
-const defaultFont = {
+const interFont = {
   fontFamily: 'Inter-Regular',
+
+  includeFontPadding: false,
+  textAlignVertical: 'center',
+
+  color: colors.black.default,
+};
+
+const robotoFont = {
+  fontFamily: 'Roboto-Regular',
 
   includeFontPadding: false,
   textAlignVertical: 'center',
@@ -14,64 +23,77 @@ const defaultFont = {
 
 export default StyleSheet.create({
   size8: {
-    ...defaultFont,
+    ...robotoFont,
     fontSize: normalized(8),
     lineHeight: normalized(11),
     minHeight: normalized(11),
   },
 
   size10: {
-    ...defaultFont,
+    ...robotoFont,
     fontSize: normalized(10),
     lineHeight: normalized(14),
     minHeight: normalized(14),
   },
 
   size12: {
-    ...defaultFont,
+    ...robotoFont,
     fontSize: normalized(12),
     lineHeight: normalized(17),
     minHeight: normalized(17),
   },
 
+  size13: {
+    ...robotoFont,
+    fontSize: normalized(13),
+    lineHeight: normalized(18),
+    minHeight: normalized(18),
+  },
+
   size14: {
-    ...defaultFont,
+    ...robotoFont,
     fontSize: normalized(14),
     lineHeight: normalized(20),
     minHeight: normalized(20),
   },
 
   size15: {
-    ...defaultFont,
+    ...interFont,
     fontSize: normalized(15),
-    lineHeight: normalized(22),
-    minHeight: normalized(22),
-    // fontFamily: 'Roboto',
+    lineHeight: normalized(20),
+    minHeight: normalized(20),
   },
 
   size16: {
-    ...defaultFont,
+    ...interFont,
     fontSize: normalized(16),
     lineHeight: normalized(23),
     minHeight: normalized(23),
   },
 
   size18: {
-    ...defaultFont,
+    ...interFont,
     fontSize: normalized(18),
     lineHeight: normalized(26),
     minHeight: normalized(26),
   },
 
+  size22: {
+    ...interFont,
+    fontSize: normalized(22),
+    lineHeight: normalized(28),
+    minHeight: normalized(28),
+  },
+
   size24: {
-    ...defaultFont,
+    ...interFont,
     fontSize: normalized(24),
     lineHeight: normalized(28),
     minHeight: normalized(28),
   },
 
   size36: {
-    ...defaultFont,
+    ...interFont,
     fontSize: normalized(36),
     lineHeight: normalized(52),
     minHeight: normalized(52),

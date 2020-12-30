@@ -7,6 +7,8 @@ import Verification from "../../../../assets/images/Verification.svg";
 import CheckMark from "../../../../assets/images/CheckMark.svg";
 import JobSeeker from "../../../../assets/images/JobSeeker.svg";
 import JobPoster from "../../../../assets/images/JobPoster.svg";
+import Arrow from "../../../../assets/images/Arrow.svg";
+import WarningMark from "../../../../assets/images/WarningMark.svg";
 
 import { colors, layout } from "../../../../assets/styles";
 
@@ -38,6 +40,10 @@ export const Icon = ({ name, ...props }) => {
       return <JobSeeker {...props} />;
     case "JobPoster":
       return <JobPoster {...props} />;
+    case "Arrow":
+      return <Arrow {...props} />;
+    case "WarningMark":
+      return <WarningMark {...props} />;
     default:
       return null;
   }

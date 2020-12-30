@@ -10,7 +10,7 @@ import {
   Linking,
   ScrollView,
 } from 'react-native';
-import { Button , Input, CheckBox, Modal} from '../../../views/components/basic';
+import { Button , Input, CheckBox} from '../../../views/components/basic';
 import {colors, fonts, scenes, layout} from '../../../assets/styles';
 import { normalized } from '../../../utils';
 import {
