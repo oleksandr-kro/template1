@@ -18,6 +18,7 @@ import {
   animations,
 } from '../../../assets/configs';
 
+
 export const ScreenLogin = ({ route, navigation }) => {
   const [phoneChecked, setPhoneChecked] = React.useState(false);
   const [unvalidatedMessages, setUnvalidatedMessages] = React.useState({});
@@ -27,7 +28,7 @@ export const ScreenLogin = ({ route, navigation }) => {
     InteractionManager.runAfterInteractions(() => {
       numberInput.current.focus()
     });
-  } 
+  }
 
   React.useEffect(() => {
     focusInputWithKeyboard()

@@ -10,4 +10,5 @@ export * from './Icon';
 export * from './Header';
 export * from './CheckBox';
 export * from './Modal';
+export * from './Test';
 export type { BoxType };

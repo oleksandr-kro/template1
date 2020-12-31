@@ -134,7 +134,7 @@ const Title = ({ title, width, light, collapsed }) => {
   );
 };
 
-const Header = React.memo(({ scene, previous, navigation }) => {
+export const Header = React.memo(({ scene, previous, navigation }) => {
   const { descriptor, progress, route } = scene;
   const { options } = descriptor;
   const {
@@ -162,7 +162,7 @@ const Header = React.memo(({ scene, previous, navigation }) => {
   });
 
   const bottomed = headerBottomLeft || headerBottomRight;
-
+  console.log('header ok')
   //
   return (
     <Animated.View style={{ opacity }}>
@@ -280,4 +280,4 @@ const Header = React.memo(({ scene, previous, navigation }) => {
   );
 });
 
-export default (props) => <Header {...props} />;
+// export default (props) => <Header {...props} />;
