@@ -19,23 +19,56 @@ export const ScreenVerification = ({ route, navigation}) => {
 
 
   const defaultHeaderConfig = (navigation) => ({
-   light: true,
-   transparent: true,
-   headerCenter: <Text>Buy Now</Text>,
-   headerLeft: {
-     top: (
-       <TouchableOpacity onPress={() => navigation.goBack()}>
-       <Icon name="Check"  />
-       </TouchableOpacity> 
-     ),
-   },
-    // title: '123456'
+  //  light: true,
+  //  transparent: true,
+  //  headerCenter: <Text>Buy Now</Text>,
+  //  headerLeft: {
+  //    top: (
+  //      <TouchableOpacity onPress={() => navigation.goBack()}>
+  //      <Icon name="Check"  />
+  //      </TouchableOpacity> 
+  //    ),
+  //  },
+    title: '123456'
   }); 
   React.useLayoutEffect(() => {
+    // navigation.setOptions({
+    //   ...defaultHeaderConfig(navigation),
+    // });
     navigation.setOptions({
-      ...defaultHeaderConfig(navigation),
+      title: '',
+      headerStyle: {
+        backgroundColor: '#fff',
+        shadowOffset: {
+          width: 0,
+          height: 0,
+        },
+        shadowOpacity: 0, elevation: 0
+      },
+    // headerTitle: (props) => (
+    //   <Text
+    //     {...props}
+    //     style={{ fontWeight: 'bold'}}>
+    //     Custom Title1
+    //   </Text>
+    // ),
+      headerLeft: () => (
+        <TouchableOpacity
+          onPress={() => navigation.navigate('Login')}
+          style={{marginLeft: 30}}>
+          {/* <Text style={{}}>Left Menu</Text> */}
+          <Icon name={'ArrowBack'}/>
+        </TouchableOpacity>
+      ),
+      // headerRight: () => (
+      //   <TouchableOpacity
+      //     onPress={() => alert('Right Menu Clicked')}
+      //     style={{marginRight: 10}}>
+      //     <Text style={{}}>Right Menu</Text>
+      //   </TouchableOpacity>
+      // ),
     });
-  }, []);
+  }, [navigation]);
 
   const authHandler = (code) =>{
     if(code === code){
@@ -56,9 +89,6 @@ export const ScreenVerification = ({ route, navigation}) => {
               <Text style={{...fonts.size15, color: colors.orange.default, textDecorationLine: 'underline'}}> Resend code</Text>
             </TouchableOpacity>
           </Text>
-          {/* <TouchableOpacity>
-            <Text style={{...fonts.size15, color: colors.orange.default, textDecorationLine: 'underline'}}>Resend code</Text>
-          </TouchableOpacity> */}
         </View>
         <View style={{marginTop: layout.paddings.double}}>
           <CodeInput

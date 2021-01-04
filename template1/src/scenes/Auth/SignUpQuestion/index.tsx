@@ -55,8 +55,9 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
        <ScrollView
         showsVerticalScrollIndicator={false}
         bounces={false}
-        style={{flex: 1}}
+        // style={{flex: 1}}
        >
+         <ModalDropdown options={["option 1", "option 2"]} />
             <View style={[scenes.contentContainer]}>
               <View style={{justifyContent: 'space-between'}}>
                 <View style={{paddingBottom: layout.paddings.default2}}>
@@ -89,6 +90,7 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
                       onSelect={(idx, value) => {
                         // setDuration({ id: idx + 1, value });
                         setDropdownVisaValue(value)
+                        console.log(value)
                       }}
                       options={['Eledronic Travel Authority (subdass 601 )',
                       'eVisitor (subclass 651 )',
@@ -111,6 +113,7 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
                         marginLeft: -16,
                         borderRadius: 0,
                         width: width-normalized(60),
+                        // zIndex:0,
                         // height: normalized(20)
                       }}
                       dropdownTextHighlightStyle={{ ...fonts.bold }}
@@ -250,7 +253,7 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
                 </View>}
               
             
-                <Button disabled={firstQuestion || fourthQuestion ? false : true} onPress={()=>console.log('ok')} title={'Confirm'} margin={layout.paddings.double}/>
+                <Button disabled={firstQuestion || fourthQuestion ? false : true} onPress={()=> navigation.navigate('SignUpPassport')} title={'Confirm'} margin={layout.paddings.double}/>
               </View>
             </View>
        </ScrollView>

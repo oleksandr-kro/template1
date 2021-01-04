@@ -12,7 +12,7 @@ export const Test =({title})=>{
 
     console.log('header ok1')
    return( <>
-   <Text>123</Text>
+   <Text>Header</Text>
    <Text>{title}</Text>
    </>)
 }

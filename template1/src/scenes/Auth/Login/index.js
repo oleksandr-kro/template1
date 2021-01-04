@@ -36,6 +36,7 @@ export const ScreenLogin = ({ route, navigation }) => {
 
   return(
       <View style={scenes.contentContainer}>
+        
         <View style={{}}>
         <Text style={{...fonts.size24, ...fonts.bold}}>Login</Text>
         {/* <TouchableOpacity onPress={() => {navigation.navigate('Verification')}}>
