@@ -25,12 +25,14 @@ const AuthNav =()=>(
         // // header: ()=> <Header/>,
         // header: ()=> <Test />,
         // headerBackTitleVisible: false,
-      }} initialRouteName="Verification">
-        <AuthStack.Screen name="Login" component={ScreenLogin} options={{headerShown: false}}/>
+        headerShown: true,
+        headerTransparent: true,
+      }} initialRouteName="SignUpPassport">
+        <AuthStack.Screen name="Login" component={ScreenLogin} options={{headerShown: false, gestureEnabled: false}}/>
         <AuthStack.Screen name="Verification" component={ScreenVerification} />
-        <AuthStack.Screen name="SignUp" component={ScreenSignUp} options={{headerShown: false}}/>
-        <AuthStack.Screen name="SignUpQuestion" component={ScreenSignUpQuestion} options={{headerShown: false}}/>
-        <AuthStack.Screen name="SignUpPassport" component={ScreenSignUpPassport} options={{headerShown: false}}/>
+        <AuthStack.Screen name="SignUp" component={ScreenSignUp} options={{headerShown: false, gestureEnabled: false}}/>
+        <AuthStack.Screen name="SignUpQuestion" component={ScreenSignUpQuestion} options={{headerShown: false, gestureEnabled: false}}/>
+        <AuthStack.Screen name="SignUpPassport" component={ScreenSignUpPassport} options={{headerShown: false, gestureEnabled: false}}/>
     </AuthStack.Navigator>
 
 )    

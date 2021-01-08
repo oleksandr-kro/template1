@@ -16,7 +16,7 @@ import SwitchSelector from "react-native-switch-selector";
 import ModalDropdown from 'react-native-modal-dropdown-with-flatlist';
 import { Button , Icon} from '../../../views/components/basic';
 import {colors, fonts, scenes, layout} from '../../../assets/styles';
-import { normalized, width } from '../../../utils';
+import { normalized, width, height } from '../../../utils';
 import { color } from 'react-native-reanimated';
 
 
@@ -57,8 +57,7 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
         bounces={false}
         // style={{flex: 1}}
        >
-         <ModalDropdown options={["option 1", "option 2"]} />
-            <View style={[scenes.contentContainer]}>
+            <View style={scenes.contentContainer}>
               <View style={{justifyContent: 'space-between'}}>
                 <View style={{paddingBottom: layout.paddings.default2}}>
                   <Text style={{...fonts.size22}}>Are you an Australian citizen or permanent resident?</Text>
@@ -113,7 +112,6 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
                         marginLeft: -16,
                         borderRadius: 0,
                         width: width-normalized(60),
-                        // zIndex:0,
                         // height: normalized(20)
                       }}
                       dropdownTextHighlightStyle={{ ...fonts.bold }}
@@ -121,7 +119,9 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
                       // showsVerticalScrollIndicator={false}
                     >
                       <View style={{flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between'}}>
-                      <Text style={{...fonts.size15}}>{dropdownVisaValue}</Text>
+                        <View style={{width: width - normalized(125)}}>
+                          <Text style={{...fonts.size15}}>{dropdownVisaValue}</Text>
+                        </View>
                       <View style={{height: normalized(20), borderLeftWidth: normalized(1),borderLeftColor: colors.gray.default, width:normalized(40), alignItems: "center",justifyContent: 'center'}}>
                         <View style={{paddingLeft: normalized(10)}}>
                           <Icon name='Arrow'/>
@@ -253,7 +253,7 @@ export const ScreenSignUpQuestion = ({ route, navigation }) => {
                 </View>}
               
             
-                <Button disabled={firstQuestion || fourthQuestion ? false : true} onPress={()=> navigation.navigate('SignUpPassport')} title={'Confirm'} margin={layout.paddings.double}/>
+                <Button disabled={firstQuestion || fourthQuestion ? false : true} onPress={()=> navigation.navigate('SignUpPassport')} title={'Confirm'} margin={!firstQuestion ? layout.paddings.double : height - normalized(325)}/>
               </View>
             </View>
        </ScrollView>
@@ -267,4 +267,4 @@ const styles = StyleSheet.create({
     borderTopWidth: normalized(1),
     borderTopColor: colors.gray.darker4
   },
-});
+});  

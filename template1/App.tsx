@@ -19,7 +19,7 @@ const App: React.FC = () => {
 
   return(
     <>
-      {Platform.OS === 'ios' && <StatusBar barStyle="light-content" />}
+      {Platform.OS !== 'ios' && <StatusBar barStyle="dark-content" />}
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
           {/* <ThemeProvider theme={theme}> */}

@@ -4,7 +4,7 @@
             "outputFile": "/Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
             "map": [
                 {
-                    "source": "/Users/starapps/.gradle/caches/transforms-2/files-2.1/57a7755ec7f8569f8e81b10deb53e9cc/core-1.1.0/res/values-de/values-de.xml",
+                    "source": "/Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/res/values-de/values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,6 +18,23 @@
                         "startOffsets": "2913",
                         "endColumns": "100",
                         "endOffsets": "3009"
+                    }
+                },
+                {
+                    "source": "/Users/starapps/.gradle/caches/transforms-2/files-2.1/2d21782e359b24b9caf1683ae414ef0f/ucrop-2.2.6-native/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,179",
+                        "endColumns": "65,57,55",
+                        "endOffsets": "116,174,230"
+                    },
+                    "to": {
+                        "startLines": "31,32,33",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3014,3080,3138",
+                        "endColumns": "65,57,55",
+                        "endOffsets": "3075,3133,3189"
                     }
                 },
                 {

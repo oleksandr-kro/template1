@@ -11,4 +11,5 @@ export * from './Header';
 export * from './CheckBox';
 export * from './Modal';
 export * from './Test';
+export * from './DatePicker';
 export type { BoxType };

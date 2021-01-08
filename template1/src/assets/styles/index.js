@@ -34,6 +34,7 @@ export const scenes = StyleSheet.create({
     maxWidth: normalized(375),
     backgroundColor: colors.bgWhite,
     flex:1,
+    
   },
 });
 
