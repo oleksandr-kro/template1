@@ -32,8 +32,8 @@
 20-->/Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:7:64-88
 21
 22    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-22-->[com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:16:5-76
-22-->[com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:16:22-73
+22-->[com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:16:5-76
+22-->[com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:16:22-73
 23
 24    <queries>
 24-->[:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
@@ -56,7 +56,7 @@
 34        android:allowBackup="false"
 34-->/Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:15:7-34
 35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-35-->[androidx.core:core:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:24:18-86
+35-->[androidx.core:core:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3b6b28b8cbd0cec0c917ba30bf80f233/core-1.1.0/AndroidManifest.xml:24:18-86
 36        android:debuggable="true"
 37        android:icon="@mipmap/ic_launcher"
 37-->/Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:13:7-41
@@ -129,24 +129,6 @@
 72-->[:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
 73            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 73-->[:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
-74
-75        <provider
-75-->[:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
-76            android:name="com.imagepicker.ImagePickerProvider"
-76-->[:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
-77            android:authorities="com.helloworld.imagepickerprovider"
-77-->[:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
-78            android:exported="false"
-78-->[:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
-79            android:grantUriPermissions="true" >
-79-->[:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
-80            <meta-data
-80-->[:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
-81                android:name="android.support.FILE_PROVIDER_PATHS"
-81-->[:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
-82                android:resource="@xml/imagepicker_provider_paths" />
-82-->[:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
-83        </provider>
-84    </application>
-85
-86</manifest>
+74    </application>
+75
+76</manifest>

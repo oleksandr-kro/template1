@@ -5,70 +5,69 @@ INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/t
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:1:1-36:12
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:1:1-36:12
 MERGED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:1:1-36:12
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/61ec062d53d2287f955099e63a79622e/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1e1cd6a6b632f76d3c385e19540f6b46/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/aec335f754efc649b5a51b8f35f6b85b/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3f29f750ed40e608c0200d31c7d71333/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-community_async-storage] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_datetimepicker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-community_masked-view] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-34:12
-MERGED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
 MERGED from [:react-native-reanimated] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-splash-screen] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [:react-native-svg] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/de236fa7d1b4c02e52dd219e584e6f46/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b68ef46a2a684adf9b1e294522fb1df3/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [org.webkit:android-jsc:r245459] /Users/starapps/.gradle/caches/transforms-2/files-2.1/568ad9f4553d01d53a292ec6245d6cea/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6d6637ae4fb640c2c52caf0120372bab/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/623293540ff0685f3f9a04a205b8e348/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/starapps/.gradle/caches/transforms-2/files-2.1/8e48dfabcd0490b5ea0af089df7d6642/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-linear-gradient] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/bf4f8f93dcdeaf865c431513daa06e1f/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4856c0622f0557c6159bd32000ec7a9d/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1935e14be136baa421acd03dbe5b0e8a/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/8c8eb2002e286dd821976fa6494d8281/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b6baac6b3db5e32ad5105313d8f4e05d/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/28b3f060f3468bb416a4e63563105ffd/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/c69000498b9d669b4f18f999ac585e78/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/87b9c1f17708692e3774d6bc966f7ef9/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/e27ce9de34b0eee73e8ca8614423ccf6/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/fae4afff945e01bc408d46d32b2db411/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9530eb065a162a0e1bbf2626a0811202/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/bb8c3514ab2ae0cd827e88bce63ca5d9/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a4a8d8d3a758d6a1d83090626d426df0/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0f12ea78afa91a67e24ec14ba780a6ae/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d28ac9a2ea57e720758a69b4dbacf807/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
-MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d21782e359b24b9caf1683ae414ef0f/ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/5fc6f3f591c7e2de151573672c34bbdd/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d2ed4c1f2d22e4d2b3166b95583ff78f/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6e480f47207a81e5da9fafeeb92a6b55/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/dccd40edb2e077826853cddde5b4e22c/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/193953fa1608f778c6c0103510541d16/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/866f4023b0f6f111f4c80b2759f3a74c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4219b5a6d22e34f8b719171d3a1fa43b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/94882809552827825dd69f1d1f1ec6b0/activity-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/59182b9b0f183be050527c4f3274a4d6/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/02b1c70979ea1010935998189276b651/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/92e61fd8c8343e747c5fca09c5d3e5ff/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ddd30b16d30af545fd3654c9a7e3e1c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b8c235ce17450056f4452b7a9e163f1c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/877a8b92ea81222aa163efdced05d476/exifinterface-1.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f945758adb194b91c01c3955fc665313/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/191a2a70a59b7d2da080245a3be467f4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cf966c3591d0a3475bdaa62765d46ce5/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/69eab2c511f9e7cf361179779a32fb2e/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/542825a307e3f5a1823b972a86e36515/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cc882b9ef562562d9a48f00a1e1033d5/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4e6a1bfc74562c4f2502d33ad020a007/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7966cbff17c6377a73caf2b644bb23b0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9b6dd764d42012524e9e5c32e438f0d0/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/5989e88180b6bb166f367b6f165dcf44/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9241caa57a4aba913a7bdf412b2b7ab5/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d91e8cbd26cf4123bbc59945b0a4a2c5/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/08c199096a1dde6865f04c38322cc469/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f733e935387e4c6cc0dd4aff2653809b/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/aa621a3e78298d54218a3b24059f79c4/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/02830d1edf363a255e22a3e431354886/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0d3dee51d27d2c991a7e8a97e55a0d66/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2dacb672f1e0cb48db9aa6d6231866df/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3d910c48768c9c904892522760fadbc5/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/13f118eaeb0e867f93c0ba06bece3e0d/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/94f97ac803e98824cb8462323abdfcbe/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/317da6e594c35ac7fc4b8c0aeab0e60e/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ae37ba3c7cf15e851e80a6dfd7c165c6/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/48ac54371e5ce03f121505b74abba227/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/22ca3b7bf23ebd8be36883c8179fe578/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/205ca2068be8616b11af14e346a44825/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6905d2230c5ff2df5af9c169ab06b387/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f575027bab2f2602b702c94c8a3b3bd0/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4365c35990fd6a1ad937e5d823d85d18/ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3bfb56c74782214c4168fc15f43d0d84/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1163005a3928d15c5ae0481181379b83/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/65ee3a7645ad094b4347e964ce576a8a/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9534f7ba30e18261d95ab237862e7dad/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7d88aec989e3f3788787f8c3f6ff8179/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7fa596690f8460c7c6922e30fd4ab2b7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6f2aa1271feff3fa97f95d893696a212/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0b1d825ab47c93dadc5541ba84a2d190/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/c321293e767b07b00134b7a2139b83bb/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/58ee13db36c7f12b95e4ee73360abe56/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a0e3d90beb93c681e362629f56e9e522/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d9d2d53b6ba0bf99d9cec0223e3dfbbc/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/39d0e4e97345ad1642c47d71223ab661/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/853439a309d0af117f213f5b9d7a47fc/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1868eb0bf52b219cad36d90e250f6144/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3b6b28b8cbd0cec0c917ba30bf80f233/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ee30beb30fb63852e9ed6a32e4308ba1/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/e8a887ee233c0f003e953d294de592a7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/starapps/.gradle/caches/transforms-2/files-2.1/16e150451f28c3d92b612097b7a2e8e3/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/03637366400c757b95c2092de4e61456/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/098fb5dc2507ce366a0e8b95c94674b3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d622d90bea622ee36fd3918ee38536b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6494761c1f241f41692a9cceddb49410/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7ad6d4eb294daaf6ed2f05c284f7a8bd/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b6d6dfb662f006c8d9752be4da94665f/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/813c9d907a77094b8c0acb7e15329a62/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/82dbab6c27c10574379003b44a36aab4/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/565b6fad8e17a40809fee5d2afe14ebf/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/07088bd5d666285f8fa25c5674ddb977/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/61c930c4f9456431f8418f7dfa9ac5b3/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -91,8 +90,8 @@ INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/t
 		ADDED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:15:5-67
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.CAMERA
@@ -119,22 +118,20 @@ MERGED from [:react-native-community_datetimepicker] /Users/starapps/Mobile/temp
 MERGED from [:react-native-community_datetimepicker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
 MERGED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-32:19
 MERGED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-32:19
-MERGED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
 MERGED from [:react-native-splash-screen] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-splash-screen] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/de236fa7d1b4c02e52dd219e584e6f46/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/de236fa7d1b4c02e52dd219e584e6f46/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d28ac9a2ea57e720758a69b4dbacf807/soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d28ac9a2ea57e720758a69b4dbacf807/soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.core:core:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cf966c3591d0a3475bdaa62765d46ce5/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cf966c3591d0a3475bdaa62765d46ce5/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6d6637ae4fb640c2c52caf0120372bab/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6d6637ae4fb640c2c52caf0120372bab/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f575027bab2f2602b702c94c8a3b3bd0/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f575027bab2f2602b702c94c8a3b3bd0/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3bfb56c74782214c4168fc15f43d0d84/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3bfb56c74782214c4168fc15f43d0d84/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3b6b28b8cbd0cec0c917ba30bf80f233/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3b6b28b8cbd0cec0c917ba30bf80f233/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/03637366400c757b95c2092de4e61456/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/03637366400c757b95c2092de4e61456/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3b6b28b8cbd0cec0c917ba30bf80f233/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:12:7-39
 		ADDED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml:12:7-39
@@ -199,12 +196,12 @@ uses-sdk
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/61ec062d53d2287f955099e63a79622e/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/61ec062d53d2287f955099e63a79622e/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1e1cd6a6b632f76d3c385e19540f6b46/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1e1cd6a6b632f76d3c385e19540f6b46/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/aec335f754efc649b5a51b8f35f6b85b/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/aec335f754efc649b5a51b8f35f6b85b/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3f29f750ed40e608c0200d31c7d71333/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3f29f750ed40e608c0200d31c7d71333/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-community_async-storage] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_async-storage] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_datetimepicker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -215,8 +212,6 @@ MERGED from [:react-native-gesture-handler] /Users/starapps/Mobile/template/reac
 MERGED from [:react-native-gesture-handler] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
 MERGED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
-MERGED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-safe-area-context] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -227,106 +222,106 @@ MERGED from [:react-native-splash-screen] /Users/starapps/Mobile/template/react-
 MERGED from [:react-native-splash-screen] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-svg] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-svg] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/de236fa7d1b4c02e52dd219e584e6f46/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/de236fa7d1b4c02e52dd219e584e6f46/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b68ef46a2a684adf9b1e294522fb1df3/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b68ef46a2a684adf9b1e294522fb1df3/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/starapps/.gradle/caches/transforms-2/files-2.1/568ad9f4553d01d53a292ec6245d6cea/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/starapps/.gradle/caches/transforms-2/files-2.1/568ad9f4553d01d53a292ec6245d6cea/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6d6637ae4fb640c2c52caf0120372bab/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6d6637ae4fb640c2c52caf0120372bab/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/623293540ff0685f3f9a04a205b8e348/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/623293540ff0685f3f9a04a205b8e348/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/starapps/.gradle/caches/transforms-2/files-2.1/8e48dfabcd0490b5ea0af089df7d6642/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/starapps/.gradle/caches/transforms-2/files-2.1/8e48dfabcd0490b5ea0af089df7d6642/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-linear-gradient] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-linear-gradient] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/bf4f8f93dcdeaf865c431513daa06e1f/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/bf4f8f93dcdeaf865c431513daa06e1f/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4856c0622f0557c6159bd32000ec7a9d/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4856c0622f0557c6159bd32000ec7a9d/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1935e14be136baa421acd03dbe5b0e8a/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1935e14be136baa421acd03dbe5b0e8a/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/8c8eb2002e286dd821976fa6494d8281/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/8c8eb2002e286dd821976fa6494d8281/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b6baac6b3db5e32ad5105313d8f4e05d/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b6baac6b3db5e32ad5105313d8f4e05d/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/28b3f060f3468bb416a4e63563105ffd/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/28b3f060f3468bb416a4e63563105ffd/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/c69000498b9d669b4f18f999ac585e78/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/c69000498b9d669b4f18f999ac585e78/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/87b9c1f17708692e3774d6bc966f7ef9/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/87b9c1f17708692e3774d6bc966f7ef9/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/e27ce9de34b0eee73e8ca8614423ccf6/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/e27ce9de34b0eee73e8ca8614423ccf6/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/fae4afff945e01bc408d46d32b2db411/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/fae4afff945e01bc408d46d32b2db411/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9530eb065a162a0e1bbf2626a0811202/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9530eb065a162a0e1bbf2626a0811202/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/bb8c3514ab2ae0cd827e88bce63ca5d9/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/bb8c3514ab2ae0cd827e88bce63ca5d9/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a4a8d8d3a758d6a1d83090626d426df0/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a4a8d8d3a758d6a1d83090626d426df0/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0f12ea78afa91a67e24ec14ba780a6ae/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0f12ea78afa91a67e24ec14ba780a6ae/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d28ac9a2ea57e720758a69b4dbacf807/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d28ac9a2ea57e720758a69b4dbacf807/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d21782e359b24b9caf1683ae414ef0f/ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d21782e359b24b9caf1683ae414ef0f/ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/268be37c762c3f1e21922779bb4297e4/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7dca42c052e713f328992d116d98f349/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/5fc6f3f591c7e2de151573672c34bbdd/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/5fc6f3f591c7e2de151573672c34bbdd/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d2ed4c1f2d22e4d2b3166b95583ff78f/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d2ed4c1f2d22e4d2b3166b95583ff78f/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6e480f47207a81e5da9fafeeb92a6b55/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6e480f47207a81e5da9fafeeb92a6b55/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/dccd40edb2e077826853cddde5b4e22c/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/dccd40edb2e077826853cddde5b4e22c/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/193953fa1608f778c6c0103510541d16/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/193953fa1608f778c6c0103510541d16/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/866f4023b0f6f111f4c80b2759f3a74c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/866f4023b0f6f111f4c80b2759f3a74c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4219b5a6d22e34f8b719171d3a1fa43b/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4219b5a6d22e34f8b719171d3a1fa43b/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/94882809552827825dd69f1d1f1ec6b0/activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/94882809552827825dd69f1d1f1ec6b0/activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/59182b9b0f183be050527c4f3274a4d6/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/59182b9b0f183be050527c4f3274a4d6/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/02b1c70979ea1010935998189276b651/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/02b1c70979ea1010935998189276b651/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/92e61fd8c8343e747c5fca09c5d3e5ff/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/92e61fd8c8343e747c5fca09c5d3e5ff/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ddd30b16d30af545fd3654c9a7e3e1c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ddd30b16d30af545fd3654c9a7e3e1c2/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b8c235ce17450056f4452b7a9e163f1c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b8c235ce17450056f4452b7a9e163f1c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d28154e54ca207a313bfde4a5999c2c/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/877a8b92ea81222aa163efdced05d476/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/877a8b92ea81222aa163efdced05d476/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f945758adb194b91c01c3955fc665313/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f945758adb194b91c01c3955fc665313/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/191a2a70a59b7d2da080245a3be467f4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/191a2a70a59b7d2da080245a3be467f4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cf966c3591d0a3475bdaa62765d46ce5/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cf966c3591d0a3475bdaa62765d46ce5/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/69eab2c511f9e7cf361179779a32fb2e/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/69eab2c511f9e7cf361179779a32fb2e/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/542825a307e3f5a1823b972a86e36515/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/542825a307e3f5a1823b972a86e36515/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cc882b9ef562562d9a48f00a1e1033d5/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/cc882b9ef562562d9a48f00a1e1033d5/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4e6a1bfc74562c4f2502d33ad020a007/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4e6a1bfc74562c4f2502d33ad020a007/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7966cbff17c6377a73caf2b644bb23b0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7966cbff17c6377a73caf2b644bb23b0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9b6dd764d42012524e9e5c32e438f0d0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9b6dd764d42012524e9e5c32e438f0d0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/5989e88180b6bb166f367b6f165dcf44/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/5989e88180b6bb166f367b6f165dcf44/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9241caa57a4aba913a7bdf412b2b7ab5/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9241caa57a4aba913a7bdf412b2b7ab5/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d91e8cbd26cf4123bbc59945b0a4a2c5/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d91e8cbd26cf4123bbc59945b0a4a2c5/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/08c199096a1dde6865f04c38322cc469/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/08c199096a1dde6865f04c38322cc469/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f733e935387e4c6cc0dd4aff2653809b/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f733e935387e4c6cc0dd4aff2653809b/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/aa621a3e78298d54218a3b24059f79c4/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/aa621a3e78298d54218a3b24059f79c4/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/02830d1edf363a255e22a3e431354886/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/02830d1edf363a255e22a3e431354886/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0d3dee51d27d2c991a7e8a97e55a0d66/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0d3dee51d27d2c991a7e8a97e55a0d66/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2dacb672f1e0cb48db9aa6d6231866df/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2dacb672f1e0cb48db9aa6d6231866df/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3d910c48768c9c904892522760fadbc5/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3d910c48768c9c904892522760fadbc5/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/13f118eaeb0e867f93c0ba06bece3e0d/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/13f118eaeb0e867f93c0ba06bece3e0d/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/94f97ac803e98824cb8462323abdfcbe/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/94f97ac803e98824cb8462323abdfcbe/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/317da6e594c35ac7fc4b8c0aeab0e60e/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/317da6e594c35ac7fc4b8c0aeab0e60e/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ae37ba3c7cf15e851e80a6dfd7c165c6/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ae37ba3c7cf15e851e80a6dfd7c165c6/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/48ac54371e5ce03f121505b74abba227/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/48ac54371e5ce03f121505b74abba227/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/22ca3b7bf23ebd8be36883c8179fe578/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/22ca3b7bf23ebd8be36883c8179fe578/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/205ca2068be8616b11af14e346a44825/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/205ca2068be8616b11af14e346a44825/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6905d2230c5ff2df5af9c169ab06b387/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6905d2230c5ff2df5af9c169ab06b387/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f575027bab2f2602b702c94c8a3b3bd0/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/f575027bab2f2602b702c94c8a3b3bd0/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4365c35990fd6a1ad937e5d823d85d18/ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/starapps/.gradle/caches/transforms-2/files-2.1/4365c35990fd6a1ad937e5d823d85d18/ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3bfb56c74782214c4168fc15f43d0d84/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3bfb56c74782214c4168fc15f43d0d84/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1163005a3928d15c5ae0481181379b83/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1163005a3928d15c5ae0481181379b83/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/65ee3a7645ad094b4347e964ce576a8a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/65ee3a7645ad094b4347e964ce576a8a/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9534f7ba30e18261d95ab237862e7dad/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/starapps/.gradle/caches/transforms-2/files-2.1/9534f7ba30e18261d95ab237862e7dad/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7d88aec989e3f3788787f8c3f6ff8179/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7d88aec989e3f3788787f8c3f6ff8179/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7fa596690f8460c7c6922e30fd4ab2b7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7fa596690f8460c7c6922e30fd4ab2b7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6f2aa1271feff3fa97f95d893696a212/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6f2aa1271feff3fa97f95d893696a212/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0b1d825ab47c93dadc5541ba84a2d190/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/0b1d825ab47c93dadc5541ba84a2d190/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/c321293e767b07b00134b7a2139b83bb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/c321293e767b07b00134b7a2139b83bb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/58ee13db36c7f12b95e4ee73360abe56/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/58ee13db36c7f12b95e4ee73360abe56/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a0e3d90beb93c681e362629f56e9e522/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a0e3d90beb93c681e362629f56e9e522/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d9d2d53b6ba0bf99d9cec0223e3dfbbc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/d9d2d53b6ba0bf99d9cec0223e3dfbbc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/39d0e4e97345ad1642c47d71223ab661/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/39d0e4e97345ad1642c47d71223ab661/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/853439a309d0af117f213f5b9d7a47fc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/853439a309d0af117f213f5b9d7a47fc/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1868eb0bf52b219cad36d90e250f6144/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/1868eb0bf52b219cad36d90e250f6144/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3b6b28b8cbd0cec0c917ba30bf80f233/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/3b6b28b8cbd0cec0c917ba30bf80f233/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ee30beb30fb63852e9ed6a32e4308ba1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/ee30beb30fb63852e9ed6a32e4308ba1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/e8a887ee233c0f003e953d294de592a7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/e8a887ee233c0f003e953d294de592a7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/starapps/.gradle/caches/transforms-2/files-2.1/16e150451f28c3d92b612097b7a2e8e3/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/starapps/.gradle/caches/transforms-2/files-2.1/16e150451f28c3d92b612097b7a2e8e3/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/03637366400c757b95c2092de4e61456/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/03637366400c757b95c2092de4e61456/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/098fb5dc2507ce366a0e8b95c94674b3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/098fb5dc2507ce366a0e8b95c94674b3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d622d90bea622ee36fd3918ee38536b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/2d622d90bea622ee36fd3918ee38536b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6494761c1f241f41692a9cceddb49410/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/6494761c1f241f41692a9cceddb49410/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7ad6d4eb294daaf6ed2f05c284f7a8bd/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/7ad6d4eb294daaf6ed2f05c284f7a8bd/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b6d6dfb662f006c8d9752be4da94665f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/b6d6dfb662f006c8d9752be4da94665f/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/813c9d907a77094b8c0acb7e15329a62/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/813c9d907a77094b8c0acb7e15329a62/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/82dbab6c27c10574379003b44a36aab4/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/82dbab6c27c10574379003b44a36aab4/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/565b6fad8e17a40809fee5d2afe14ebf/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/565b6fad8e17a40809fee5d2afe14ebf/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/07088bd5d666285f8fa25c5674ddb977/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/07088bd5d666285f8fa25c5674ddb977/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/61c930c4f9456431f8418f7dfa9ac5b3/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/61c930c4f9456431f8418f7dfa9ac5b3/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -340,9 +335,9 @@ ADDED from /Users/starapps/Mobile/template/react-native-template-typescript/temp
 	android:name
 		ADDED from /Users/starapps/Mobile/template/react-native-template-typescript/template1/android/app/src/debug/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:16:5-76
+ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:16:5-76
 	android:name
-		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/75238863e6b45aca4b9c498f6fefb9f4/flipper-0.54.0/AndroidManifest.xml:16:22-73
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/starapps/.gradle/caches/transforms-2/files-2.1/a2649c5a59632ed26f4014c13709d1d0/flipper-0.54.0/AndroidManifest.xml:16:22-73
 queries
 ADDED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
 intent
@@ -377,13 +372,3 @@ ADDED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/rea
 		ADDED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
 	android:name
 		ADDED from [:react-native-image-crop-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
-provider#com.imagepicker.ImagePickerProvider
-ADDED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
-	android:grantUriPermissions
-		ADDED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
-	android:authorities
-		ADDED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
-	android:exported
-		ADDED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
-	android:name
-		ADDED from [:react-native-image-picker] /Users/starapps/Mobile/template/react-native-template-typescript/template1/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
