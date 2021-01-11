@@ -16,10 +16,6 @@ import {
   NativeModules,
 } from 'react-native';
 
-// import {launchCamera, launchImageLibrary} from 'react-native-image-picker';
-// import {CameraOptions, ImageLibraryOptions, Callback} from './types';
-// import * as ImagePicker from '../';
-// import ImagePicker from 'react-native-image-picker';
 
 import ImagePicker from 'react-native-image-crop-picker';
 
@@ -38,61 +34,22 @@ export const ScreenSignUpPassport = ({ route, navigation }) => {
   const [mode, setMode] = useState('date');
   const [show, setShow] = useState(false);
   const [image, setImage] = useState();
+  const [showModal, setShowModal] = useState(false);
+  const [showModalReg, setShowModalReg] = useState(false);
+  const [confirmButton, setConfirmButton] = useState(false);
 
-  const options = {
-    storageOptions: {
-      skipBackup: true,
-      path: 'images',
-    },
-  };
-
-
-  const cameraLaunch = () => {
-
-    ImagePicker.launchCamera(
-      {
-      mediaType: "photo",
-      includeBase64: false,
-      saveToPhotos: false,
-    }, (res) => {
-      console.log('Response = ', res);
-
-      if (res.didCancel) {
-        console.log('User cancelled image picker');
-      } else if (res.error) {
-        console.log('ImagePicker Error: ', res.error);
-      } else if (res.customButton) {
-        console.log('User tapped custom button: ', res.customButton);
-      } else {
-        const source = { uri: res.uri };
-        console.log('response', JSON.stringify(res));
-      }
-    });
-}
-
-  const changePhoto = () => {
-    
-    launchCamera(
-      {
-        mediaType: "photo",
-        includeBase64: false,
-        saveToPhotos: false,
-      },
-      (response) => {
-        console.log(response)
-        setImage(response);
-      }
-    );
-  };
 
   const takePhoto = () => {
+    
     ImagePicker.openCamera({
       width: 300,
       height: 400,
       cropping: true,
     }).then(image => {
       console.log(image);
+      hideModal()
     });
+    
   }
   const uploadPhoto = () => {
     ImagePicker.openPicker({
@@ -101,7 +58,9 @@ export const ScreenSignUpPassport = ({ route, navigation }) => {
       cropping: true
     }).then(image => {
       console.log(image);
+      hideModal()
     });
+    
   }
   
     const onChange = (event, selectedDate) => {
@@ -119,6 +78,23 @@ export const ScreenSignUpPassport = ({ route, navigation }) => {
     const showDatepicker = () => {
       showMode('date');
     };
+
+    const showModalF = () => {
+      setShowModal(true)
+    }
+
+    const hideModal = () => {
+      setShowModal(false)
+    }
+
+    const showModalRegF = () => {
+      setShowModalReg(true)
+    }
+
+    const hideModalReg = () => {
+      setShowModalReg(false)
+    }
+
 
 
   const Comp = () => {
@@ -169,7 +145,8 @@ export const ScreenSignUpPassport = ({ route, navigation }) => {
                   style={{
                     paddingVertical: layout.paddings.thin,
                     paddingHorizontal: layout.paddings.default,
-                    backgroundColor: colors.gray.darker4
+                    backgroundColor: colors.gray.darker4,
+                    borderRadius: normalized(4),
                   }}
                   textStyle={{ ...fonts.size15, color: colors.gray.default }}
                   dropdownStyle={{
@@ -203,10 +180,11 @@ export const ScreenSignUpPassport = ({ route, navigation }) => {
                 <Text style={{...fonts.size16}}>Expiration Date</Text>
               </View>
               <View style={{marginTop: layout.paddings.narrow}}>
-                <TouchableOpacity onPress={showDatepicker}>
+                <TouchableOpacity onPress={showDatepicker} style={{marginBottom: layout.paddings.default}}>
                   <View style={{paddingVertical: layout.paddings.thin,
                     paddingHorizontal: layout.paddings.default,
-                    backgroundColor: colors.gray.darker4}}>
+                    borderRadius: normalized(4),
+                    backgroundColor: colors.gray.darker4,}}>
                       <View style={{flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between'}}>
                       <View style={{width: width - normalized(125)}}>
                         <Text style={{...fonts.size15}}>{moment(date).format("DD/MM/YYYY")}</Text>
@@ -233,26 +211,61 @@ export const ScreenSignUpPassport = ({ route, navigation }) => {
                 
               </View>
             </View>
-            <View>
-
-              
-            </View>
-            {/* --------------------- */}
-              <TouchableOpacity onPress={()=> takePhoto()}>
-                <View>
-                  <Text> Take Photo </Text>
+            <TouchableOpacity onPress={()=>showModalF()} style={{marginVertical: layout.paddings.default}}>
+              <View style ={styles.imageContainer}>
+                <View style={{alignItems: 'center'}}>
+                  <Icon name='Camera'/>
+                  <View style={{marginBottom:layout.paddings.default, marginTop:layout.paddings.default}}>
+                    <Text style={{...fonts.size15, color:colors.gray.lighter1,fontFamily:'Roboto'}}>Take a photo or upload</Text>
+                  </View>
                 </View>
-              </TouchableOpacity>
-              <TouchableOpacity onPress={()=> uploadPhoto()}>
-                <View>
-                  <Text> upload Photo </Text>
+              </View>
+            </TouchableOpacity>
+            <Text style={{...fonts.size24}}>Upload selfie</Text>
+            <TouchableOpacity onPress={()=>showModalF()} style={{marginVertical: layout.paddings.default}}>
+              <View style ={styles.imageContainer}>
+                <View style={{alignItems: 'center'}}>
+                  <Icon name='Camera'/>
+                  <View style={{marginBottom:layout.paddings.default, marginTop:layout.paddings.default}}>
+                    <Text style={{...fonts.size15, color:colors.gray.lighter1, fontFamily:'Roboto'}}>Take a photo or upload</Text>
+                  </View>
                 </View>
-              </TouchableOpacity>
-              {/* <Button onPress={()=> changePhoto()} title={'Photo'}/> */}
-              
-
-            {/* --------------------- */}
+              </View>
+            </TouchableOpacity>
+            <Button disabled={confirmButton} onPress={()=> showModalRegF()} title={'Continue'} margin={layout.paddings.default}/>
           </View>
+            <Modal
+            visible={showModal}
+            onRequestClose={hideModal}
+            >
+              <View style={{flex:1, justifyContent:'space-between'}}>
+                <View>
+                  <Text style={{...fonts.size16}}>Choose</Text>
+                  <Button margin={layout.paddings.default} onPress={()=> takePhoto()} title={'Take Photo'}/>
+                  <Button margin={layout.paddings.default} onPress={()=> uploadPhoto()} title={'Upload Photo'}/>
+                </View>
+                <Button onPress={()=> hideModal()} title={'Cancel'}/>
+              </View>
+            </Modal>
+            <Modal
+            visible={showModalReg}
+            onRequestClose={hideModalReg}
+            >
+              <View style={{flex:1, justifyContent:'space-between', paddingBottom: layout.paddings.default}}>
+                <View style={{alignItems: 'center'}}>
+                  <View style={styles.modalItemContainer}>
+                    <Icon name='VerificationEnd'/>
+                  </View>
+                  <View style={styles.modalItemContainer}>
+                    <Text style={{...fonts.size24}}>ID verification sent</Text>
+                  </View>
+                  <View style={styles.modalItemContainer}>
+                    <Text style={{...fonts.size15, textAlign:'center'}}>Your ID will be verified by the admin and after that you will be allowed to work on busy hive. Meanwhile you can post a job on busy hive.</Text>
+                  </View>
+                </View>
+                <Button onPress={()=> hideModalReg()} title={'Continue'}/>
+              </View>
+            </Modal>
         </ScrollView>
     )
 }
@@ -264,5 +277,18 @@ const styles = StyleSheet.create({
     borderTopWidth: normalized(1),
     borderTopColor: colors.gray.darker4
   },
+  imageContainer: {
+    backgroundColor: colors.gray.darker5,
+    borderColor: colors.gray.default,
+    borderWidth: normalized(1),
+    borderRadius: normalized(8),
+    borderStyle: 'dashed',
+    height: normalized(208),
+    alignItems: 'center',
+    justifyContent: 'center'
+  },
+  modalItemContainer:{
+    paddingTop: layout.paddings.default
+  }
 });
 
